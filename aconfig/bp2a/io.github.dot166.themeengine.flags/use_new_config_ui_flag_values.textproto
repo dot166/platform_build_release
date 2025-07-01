@@ -1,0 +1,6 @@
+flag_value {
+  package: "io.github.dot166.themeengine.flags"
+  name: "use_new_config_ui"
+  state: ENABLED
+  permission: READ_WRITE
+}
