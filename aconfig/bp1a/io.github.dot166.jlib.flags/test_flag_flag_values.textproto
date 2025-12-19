@@ -1,0 +1,6 @@
+flag_value {
+  package: "io.github.dot166.jlib.flags"
+  name: "test_flag"
+  state: DISABLED
+  permission: READ_ONLY
+}
