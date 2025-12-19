@@ -1,0 +1,7 @@
+aconfig_values {
+  name: "aconfig-values-platform_build_release-bp2a-io.github.dot166.jlib.flags-all",
+  package: "io.github.dot166.jlib.flags",
+  srcs: [
+    "*_flag_values.textproto",
+  ]
+}
